@@ -1,7 +1,7 @@
 # PyDownloadManager
 Simple Download Manager developed using wxPython for GUI and urllib2 for downloading parallely 
 
-You need to have the wxPython module installed for running this application. Place DownloadManager.py and gui.py in the same directory or adjust the import statement if you plan on keep them in separate places.
+You need to have the wxPython module installed for running this application. Place DownloadManager.py and gui.py in the same directory or adjust the import statement if you plan on keeping them in separate places.
 
 #BugToFix
 
